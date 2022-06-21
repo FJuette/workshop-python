@@ -14,7 +14,7 @@ kismetlog==2018.0.0
 kismetrest==1.0
 kiwisolver==1.1.0
 matplotlib==2.2.4
-numpy==1.16.5
+numpy==1.22.0
 packaging==19.2
 protobuf==3.9.1
 pyModeS==1.2.2
